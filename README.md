@@ -30,7 +30,7 @@ Basically, motions triggered by a key must not jank or stutter.
 
 For the pause menu you must be able to pause, restart, and continue the game whenever you want to do so. The frames should not drop if paused.
 
-### Pre-Approved List
+## Pre-Approved List
 
 Your game will have to respect the genre of one of these games listed below. In other words, the main goal of the game has to be similar to one of these:
 
