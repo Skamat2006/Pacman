@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <title>PACMAN</title>
+    <link rel="shortcut icon" href="/assets/images/Pacman.png">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+   
+    <div class="game">
+        <img class='img' src="/assets/images/pacmanSign.png" width="500" height="150">
+        <div class="grid"></div>
+    </div>
+   
+    <div>
+        <div class="instructions">
+            <p>INSTRUCTIONS
+                <li>Use ↑ ↓ → ←arrow keys to move up, down, right & left</li>
+                <li>Avoid the pesky ghosts 👻 to eat all the PacDots 🟡</li>
+                <li>Eat a PowerPellet 🔴 then you have 10 seconds eat the scared ghosts 🥶 for more points!</li>
+                <li>Careful❗ as after this they will regenerate and chase you again!</li>
+                <br> 
+                <p> GAME CONTROLS</p>
+                <label>↩ Press <strong>ENTER</strong> to start game</label><br>
+                <label>⏸ Press P to <strong>Pause</strong> the Game</label><br>
+                <label>▶️ Press C to <strong>Continue</strong> the Game</label><br>
+                <label>🔁 Press R to <strong>Restart</strong> the Game</label>
+            </p>
+        </div>
+        <div class="timer"> Timer ⏳ : 
+            <label id='mins'>00</label>
+            <label id='colon'> : </label>
+            <label id='secs'> 00 </label>
+        </div>
+
+        <div class=Score>
+            <label>ScOrE : <span id="score">0</span></label>
+        </div>
+        
+        <div class="Lives">
+            <label>Lives ❤️ : <span id="lives">3</span></label>
+        </div>         
+
+        <div class="message"> 
+            <label id="displayMessage"> </label>
+        </div>
+
+    </div>
+
+    <script src="app.js" charset="utf-8"></script>
+</body>
+</html>
