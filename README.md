@@ -1,4 +1,4 @@
-# **Pacman** Make your game project
+# **Pacman** - Make your game project
 
 With the passing of time and evolution of technology, the human brain has been requesting more and more stimuli to keep the brain occupied. Boredom happens whenever people don't receive enough of these stimuli. And you are not receiving enough of it, so you decide to **make your own game**. And to make it more challenging you decide to use JavaScript to make it.
 
@@ -51,9 +51,9 @@ We strongly advise you to use Developer Tools available in every browser (can be
 
 Developer tools that will help the most with developing this project:
 
-  - Page Inspector: You can view and edit page content and layout.
-  - Web Console: You can see your console.logs and interact with the page using JavaScript.
-  - Performance Tool: You can analyze your site's general responsiveness, performance, Javascript and layout performance.
+  - **Page Inspector**: You can view and edit page content and layout.
+  - **Web Console**: You can see your console.logs and interact with the page using JavaScript.
+  - **Performance Tool**: You can analyze your site's general responsiveness, performance, Javascript and layout performance.
   
 The tool that will help you the most is the Performance Tool. There you can record a sample of your actions on the site and analyze the FPS, check for   frame drops, how much time your functions take to execute, and other useful metrics monitoring.
 
