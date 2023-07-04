@@ -1,3 +1,5 @@
+[Live Demo](https://pacman-phi.vercel.app/)
+
 # **Pacman** - Make your game project
 
 With the passing of time and evolution of technology, the human brain has been requesting more and more stimuli to keep the brain occupied. Boredom happens whenever people don't receive enough of these stimuli. And you are not receiving enough of it, so you decide to **make your own game**. And to make it more challenging you decide to use JavaScript to make it.
